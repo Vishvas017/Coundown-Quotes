@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(61, 116, 146);
+}
+
+#countdown {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin: auto;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    color: rgba(0, 255, 76, 0.682);
+}
+
+#quote {
+    margin: auto;
+    position: absolute;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin-top: 35px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
